@@ -11,7 +11,7 @@ tags:
     - iamge_stitching
     - panorama
 ---
-# OpenCV library implementation1
+# OpenCV library implementation2
 - implement OpenCV functions with Numpy
 - get proper tranformation matrix with implemented *get_mat*
 - apply transformation with *get_transformed_image*  
